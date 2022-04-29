@@ -3,4 +3,4 @@
 ![Wave2MidiWave](https://benanne.github.io/images/wave2midi2wave.png)
 Copyright 2021 MIT 6.S191 Introduction to Deep Learning. All Rights Reserved. 
 
-Co-author Ni Sun. Copyright Ni Sun 2022. 
+Author Ni Sun. Copyright Ni Sun 2022. 
